@@ -1,4 +1,4 @@
-# Arthmatic-calculator
+# calculator
 1.First, define a method called GetResult that takes three parameters: x, y, and operators. This method will perform the operation on x and y based on the operator provided.
 
 2.Inside the GetResult method, use a switch statement to handle the different operators (+, -, *, /).
